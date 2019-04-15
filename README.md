@@ -2,7 +2,6 @@
 
 ## Requirements
 
-Install other dependencies
 ```
 $ gcloud components update
 $ gcloud components install beta
